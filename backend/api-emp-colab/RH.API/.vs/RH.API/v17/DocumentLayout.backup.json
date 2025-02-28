@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\services\\services\\colaboradoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\services\\services\\colaboradoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\ultilities\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\ultilities\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\services\\interface\\icolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\services\\interface\\icolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\infra\\repositories\\colaboradoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\infra\\repositories\\colaboradoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\infra\\interfaces\\icolaboradoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\infra\\interfaces\\icolaboradoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\dto\\colaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\dto\\colaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\profile\\colaboradorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\profile\\colaboradorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\dto\\updatecolaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\dto\\updatecolaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\dto\\icolaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\dto\\icolaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\dto\\createcolaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\dto\\createcolaboradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\domain\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\domain\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\domain\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\domain\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\services\\services\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\services\\services\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\controllers\\colaboradorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\controllers\\colaboradorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\infra\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\infra\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|c:\\users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\rh.api\\rh.api\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5281427D-9269-4C33-B39E-84A05407C4B0}|RH.API\\RH.API.csproj|solutionrelative:rh.api\\controllers\\empresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Metodos.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Ultilities\\Metodos.cs",
+              "RelativeDocumentMoniker": "RH.API\\Ultilities\\Metodos.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Ultilities\\Metodos.cs",
+              "RelativeToolTip": "RH.API\\Ultilities\\Metodos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:53:47.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Domain\\Empresa.cs",
+              "RelativeDocumentMoniker": "RH.API\\Domain\\Empresa.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Domain\\Empresa.cs",
+              "RelativeToolTip": "RH.API\\Domain\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:57:19.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColaboradorDto.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Dto\\ColaboradorDto.cs",
+              "RelativeDocumentMoniker": "RH.API\\Dto\\ColaboradorDto.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Dto\\ColaboradorDto.cs",
+              "RelativeToolTip": "RH.API\\Dto\\ColaboradorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:45:03.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColaboradorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Profile\\ColaboradorProfile.cs",
+              "RelativeDocumentMoniker": "RH.API\\Profile\\ColaboradorProfile.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Profile\\ColaboradorProfile.cs",
+              "RelativeToolTip": "RH.API\\Profile\\ColaboradorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:39:50.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Infra\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RH.API\\Infra\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Infra\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "RH.API\\Infra\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:44:29.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Domain\\Colaborador.cs",
+              "RelativeDocumentMoniker": "RH.API\\Domain\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Domain\\Colaborador.cs",
+              "RelativeToolTip": "RH.API\\Domain\\Colaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:41:56.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IColaboradorDto.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Dto\\IColaboradorDto.cs",
+              "RelativeDocumentMoniker": "RH.API\\Dto\\IColaboradorDto.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Dto\\IColaboradorDto.cs",
+              "RelativeToolTip": "RH.API\\Dto\\IColaboradorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:33:59.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateColaboradorDto.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Dto\\UpdateColaboradorDto.cs",
+              "RelativeDocumentMoniker": "RH.API\\Dto\\UpdateColaboradorDto.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Dto\\UpdateColaboradorDto.cs",
+              "RelativeToolTip": "RH.API\\Dto\\UpdateColaboradorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:28:05.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateColaboradorDto.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Dto\\CreateColaboradorDto.cs",
+              "RelativeDocumentMoniker": "RH.API\\Dto\\CreateColaboradorDto.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Dto\\CreateColaboradorDto.cs",
+              "RelativeToolTip": "RH.API\\Dto\\CreateColaboradorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:11:24.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmpresaService.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Services\\Services\\EmpresaService.cs",
+              "RelativeDocumentMoniker": "RH.API\\Services\\Services\\EmpresaService.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Services\\Services\\EmpresaService.cs",
+              "RelativeToolTip": "RH.API\\Services\\Services\\EmpresaService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:04:57.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmpresasController.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Controllers\\EmpresasController.cs",
+              "RelativeDocumentMoniker": "RH.API\\Controllers\\EmpresasController.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Controllers\\EmpresasController.cs",
+              "RelativeToolTip": "RH.API\\Controllers\\EmpresasController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:01:26.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ColaboradoresController.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Controllers\\ColaboradoresController.cs",
+              "RelativeDocumentMoniker": "RH.API\\Controllers\\ColaboradoresController.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Controllers\\ColaboradoresController.cs",
+              "RelativeToolTip": "RH.API\\Controllers\\ColaboradoresController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:27:38.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColaboradoresService.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Services\\Services\\ColaboradoresService.cs",
+              "RelativeDocumentMoniker": "RH.API\\Services\\Services\\ColaboradoresService.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Services\\Services\\ColaboradoresService.cs",
+              "RelativeToolTip": "RH.API\\Services\\Services\\ColaboradoresService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:20:48.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IColaborador.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Services\\Interface\\IColaborador.cs",
+              "RelativeDocumentMoniker": "RH.API\\Services\\Interface\\IColaborador.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Services\\Interface\\IColaborador.cs",
+              "RelativeToolTip": "RH.API\\Services\\Interface\\IColaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:18:49.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColaboradoresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Infra\\Repositories\\ColaboradoresRepository.cs",
+              "RelativeDocumentMoniker": "RH.API\\Infra\\Repositories\\ColaboradoresRepository.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Infra\\Repositories\\ColaboradoresRepository.cs",
+              "RelativeToolTip": "RH.API\\Infra\\Repositories\\ColaboradoresRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:01:48.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IColaboradoresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Infra\\Interfaces\\IColaboradoresRepository.cs",
+              "RelativeDocumentMoniker": "RH.API\\Infra\\Interfaces\\IColaboradoresRepository.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Infra\\Interfaces\\IColaboradoresRepository.cs",
+              "RelativeToolTip": "RH.API\\Infra\\Interfaces\\IColaboradoresRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:01:13.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Program.cs",
+              "RelativeDocumentMoniker": "RH.API\\Program.cs",
+              "ToolTip": "C:\\Users\\davis\\source\\repos\\api-estagio\\api-emp-colab\\RH.API\\RH.API\\Program.cs",
+              "RelativeToolTip": "RH.API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:48:32.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

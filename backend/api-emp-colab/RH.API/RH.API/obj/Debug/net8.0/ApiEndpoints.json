@@ -1,0 +1,155 @@
+[
+  {
+    "ContainingType": "RH.API.Controllers.ColaboradoresController",
+    "Method": "BuscarColaboradores",
+    "RelativePath": "api/Colaboradores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.API.Controllers.ColaboradoresController",
+    "Method": "Atualizar",
+    "RelativePath": "api/Colaboradores/atualizar-colaborador/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "colaboradorDto",
+        "Type": "RH.API.Dto.UpdateColaboradorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.API.Controllers.ColaboradoresController",
+    "Method": "ColaboradorPorId",
+    "RelativePath": "api/Colaboradores/colaborador-id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.API.Controllers.ColaboradoresController",
+    "Method": "ExcluirColaborador",
+    "RelativePath": "api/Colaboradores/excluir/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.API.Controllers.ColaboradoresController",
+    "Method": "Inserir",
+    "RelativePath": "api/Colaboradores/inserir-colaborador",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "colaborador",
+        "Type": "RH.API.Dto.CreateColaboradorDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.API.Controllers.EmpresasController",
+    "Method": "BuscarTodas",
+    "RelativePath": "api/Empresas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.API.Controllers.EmpresasController",
+    "Method": "Atualizar",
+    "RelativePath": "api/Empresas/atualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresa",
+        "Type": "RH.API.Domain.Empresa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.API.Controllers.EmpresasController",
+    "Method": "BuscarPorId",
+    "RelativePath": "api/Empresas/buscar-id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.API.Controllers.EmpresasController",
+    "Method": "Excluir",
+    "RelativePath": "api/Empresas/excluir/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RH.API.Controllers.EmpresasController",
+    "Method": "Inserir",
+    "RelativePath": "api/Empresas/inserir",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresa",
+        "Type": "RH.API.Domain.Empresa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

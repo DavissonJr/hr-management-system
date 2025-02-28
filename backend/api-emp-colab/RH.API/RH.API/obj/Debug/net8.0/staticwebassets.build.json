@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Z794py5h2HV1S2bngjfBrRhSUDYc2TTA0ixl6FFkBag=",
+  "Source": "RH.API",
+  "BasePath": "_content/RH.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

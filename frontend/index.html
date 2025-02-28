@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yasup RH: Gerenciador de Recursos Humanos</title>
+    <link rel="stylesheet" href="\frontend\css\style.css">
+    <script src="\frontend/js/script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <ul>
+                <li>
+                    <a href="#">
+                    <span class="icon"><ion-icon name="logo-alipay"></ion-icon></span>
+                    <span class="title-brand">YASUP RH</span>
+                </a>
+                </li>
+                <li>
+                    <a href="#">
+                    <span class="icon"><ion-icon name="home-outline"></ion-icon></span>
+                    <span class="title">Home</span>
+                </a>
+                </li>
+                <li>
+                    <a href="#">
+                    <span class="icon"><ion-icon name="person-add-outline"></ion-icon></span>
+                    <span class="title">Adicionar Colaboradores</span>
+                </a>
+                </li>
+                <li>
+                    <a href="#">
+                    <span class="icon"><ion-icon name="business-outline"></ion-icon></span>
+                    <span class="title">Adicionar Empresa</span>
+                </a>
+                </li>
+                <li>
+                    <a href="#">
+                    <span class="icon"><ion-icon name="settings-outline"></ion-icon></span>
+                    <span class="title">Configurações</span>
+                </a>
+                </li>
+                <li>
+                    <a href="#">
+                    <span class="icon"><ion-icon name="log-out-outline"></ion-icon></span>
+                    <span class="title">Sair</span>
+                </a>
+            </li>
+            </ul>
+        </nav>
+
+        <main>
+            <div class="topbar">
+                <div class="toggle" id="toggle">
+                    <ion-icon name="menu-outline"></ion-icon>
+                </div>
+                <div class="search">
+                    <label>
+                        <input type="text" placeholder="Procure aqui">
+                    <ion-icon name="search-outline"></ion-icon>
+                    </label>
+                </div>
+                <div class="user">
+                   <ion-icon name="person-circle-outline"></ion-icon>
+                </div>
+            </div>
+
+            <div class="cardBox">
+                <div class="card">
+                    <div>
+                        <div class="numbers" id="colaboradoresAtivos">23</div>
+                        <div class="cardName">Colaboradores Ativos</div>
+                    </div>
+                    <div class="iconBox"><ion-icon name="people-circle-outline"></ion-icon></div>
+                </div>
+            
+                <div class="card">
+                    <div>
+                        <div class="numbers" id="solicitacoesPendentes">3</div>
+                        <div class="cardName">Solicitações Pendentes</div>
+                    </div>
+                    <div class="iconBox"><ion-icon name="document-text-outline"></ion-icon></div>
+                </div>
+            
+                <div class="card">
+                    <div>
+                        <div class="numbers" id="empresasCadastradas">4</div>
+                        <div class="cardName">Empresas Cadastradas</div>
+                    </div>
+                    <div class="iconBox"><ion-icon name="business-outline"></ion-icon></div>
+                </div>
+            
+                <div class="card">
+                    <div>
+                        <div class="numbers">$7500</div>
+                        <div class="cardName">Total da folha salarial</div>
+                    </div>
+                    <div class="iconBox"><ion-icon name="cash-outline"></ion-icon></div>
+                </div>
+            </div>
+
+            <div class="details">
+                <div class="recentOrders">
+                    <div class="cardHeader">
+                        <h2>Colaboradores</h2>
+                        <div class="button-container">
+                        <a href="#" class="btn" id="viewAll">Próximo</a>
+                        <a href="#" class="btn" id="voltar" style="display: none;">Voltar</a> 
+                        </div>                        
+                    </div>
+
+                    <table>
+                        <thead>
+                            <tr class="table-subtitle">
+                                <td>Id</td>
+                                <td>Nome</td>
+                                <td>CPF</td>
+                                <td>Matricula</td>
+                                <td>Empresa</td>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            
+                        </tbody>
+                    </table>
+                </div>
+                <div class="recentCustomers">
+                    <div class="cardHeader">
+                        <h2>Empresas Cadastradas</h2>
+                    </div>
+                
+                    <div id="empresas-container">
+                        <!-- empresa aq -->
+                    </div>
+
+                    <div class="button-container">
+                        <a href="#" class="btn" id="previous" style="display: none;">Voltar</a>
+                        <a href="#" class="btn" id="next" style="display: inline;">Próximo</a>
+                    </div>
+                    
+                </div>
+                
+
+           
+        </main>
+    </div>
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
