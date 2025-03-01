@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yasup RH: Gerenciador de Recursos Humanos</title>
+    <link rel="stylesheet" href="\frontend\css\cadastrar.css">
+    <script src="\frontend/js/Cadastro.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <ul>
+                <li>
+                    <a href="#">
+                    <span class="icon"><ion-icon name="logo-alipay"></ion-icon></span>
+                    <span class="title-brand">YASUP RH</span>
+                </a>
+                </li>
+                <li>
+                    <a href="index.html">
+                    <span class="icon"><ion-icon name="home-outline"></ion-icon></span>
+                    <span class="title">Home</span>
+                </a>
+                </li>
+                <li>
+                    <a href="cadastrar.html">
+                    <span class="icon"><ion-icon name="add-outline"></ion-icon></span>
+                    <span class="title">Cadastrar</span>
+                </a>
+                </li>
+                <li>
+                    <a href="#">
+                    <span class="icon"><ion-icon name="settings-outline"></ion-icon></span>
+                    <span class="title">Configurações</span>
+                </a>
+                </li>
+                <li>
+                    <a href="#">
+                    <span class="icon"><ion-icon name="log-out-outline"></ion-icon></span>
+                    <span class="title">Sair</span>
+                </a>
+            </li>
+            </ul>
+        </nav>
+
+        <main>
+            <div class="topbar">
+                <div class="toggle" id="toggle">
+                    <ion-icon name="menu-outline"></ion-icon>
+                </div>
+                <div class="search">
+                    <label>
+                        <input type="text" placeholder="Procure aqui">
+                    <ion-icon name="search-outline"></ion-icon>
+                    </label>
+                </div>
+                <div class="user">
+                   <ion-icon name="person-circle-outline"></ion-icon>
+                </div>
+            </div>
+
+            <div id="modal-success" class="modal">
+                <div class="modal-content">
+                    <span class="close-modal">&times;</span>
+                    <h2>Sucesso!</h2>
+                    <p id="modal-success-message"></p>
+                </div>
+            </div>
+            
+            <!-- Modal de Erro -->
+            <div id="modal-error" class="modal">
+                <div class="modal-content">
+                    <span class="close-modal">&times;</span>
+                    <h2>Erro!</h2>
+                    <p id="modal-error-message"></p>
+                </div>
+            </div>
+            <!-- Formulário de Cadastro de Empresa -->
+            <div class="form-container">
+                <h2>Cadastrar Empresa</h2>
+                <form id="form-empresa">
+                    <div class="form-group">
+                        <label for="nome-empresa">Nome da Empresa:</label>
+                        <input type="text" id="nome-empresa" name="nome-empresa" required>
+                    </div>
+                    <button type="submit" class="btn">Cadastrar Empresa</button>
+                </form>
+            </div>
+
+            <!-- Formulário de Cadastro de Colaborador -->
+            <div class="form-container">
+                <h2>Cadastrar Colaborador</h2>
+                <form id="form-colaborador">
+                    <div class="form-group">
+                        <label for="nome-colaborador">Nome do Colaborador:</label>
+                        <input type="text" id="nome-colaborador" name="nome-colaborador" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="cpf-colaborador">CPF:</label>
+                        <input type="text" id="cpf-colaborador" name="cpf-colaborador" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="matricula-colaborador">Matrícula:</label>
+                        <input type="text" id="matricula-colaborador" name="matricula-colaborador" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="empresa-id">ID da Empresa:</label>
+                        <input type="text" id="empresa-id" name="empresa-id" required>
+                    </div>
+                    <button type="submit" class="btn">Cadastrar Colaborador</button>
+                </form>
+            </div>
+        </main>
+    </div>
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+</html>

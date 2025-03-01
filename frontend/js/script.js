@@ -36,15 +36,13 @@ async function carregarDados() {
         const colaboradores = await colaboradoresResponse.json();
         const empresas = await empresasResponse.json();
 
-        // Atualizando as informações na interface
-        document.getElementById("colaboradoresAtivos").innerText = colaboradores.length; // Número de colaboradores ativos
-        document.getElementById("empresasCadastradas").innerText = empresas.length; // Número de empresas cadastradas
+        document.getElementById("colaboradoresAtivos").innerText = colaboradores.length; 
+        document.getElementById("empresasCadastradas").innerText = empresas.length; 
     } catch (error) {
         console.error("Erro ao carregar dados:", error);
     }
 }
 
-// Chama a função para carregar os dados
 carregarDados();
 
 async function carregarColaboradores() {
@@ -193,7 +191,7 @@ function exibirEmpresas() {
 }
 
 function mostrarProximo(event) {
-    event.preventDefault();  // Impede o comportamento padrão (rolar a página)
+    event.preventDefault();  
     if (startIndex + pageSize < empresas.length) {
         startIndex += pageSize;
         exibirEmpresas();
@@ -201,7 +199,7 @@ function mostrarProximo(event) {
 }
 
 function voltar(event) {
-    event.preventDefault();  // Impede o comportamento padrão (rolar a página)
+    event.preventDefault();  
     if (startIndex > 0) {
         startIndex -= pageSize;
         exibirEmpresas();
